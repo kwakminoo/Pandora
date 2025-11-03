@@ -1,30 +1,48 @@
 quote_text,original_text,source_name,source_type,season,time_of_day,weather
-"토니: 이봐요, 박사님! 왜 혼자 거기 서 있어요? 무슨 일이에요? / 돈 셜리: 당신은 폭력으로 이길 수 없어요, 토니. 오직 품위를 지킬 때만 이길 수 있죠.","Tony: Hey, Doc! What's with the alone time? What's going on? / Don Shirley: You never win with violence, Tony. You only win when you maintain your dignity.",그린 북,영화,NULL,NULL,NULL
-"천재성만으로는 충분치 않다. 사람들의 마음을 바꾸려면 용기가 필요하다。","Being genius is not enough. It takes courage to change people's hearts.",그린 북,영화,NULL,NULL,NULL
-"돈 셜리: 토니, 나를 위해 이 편지를 써줄 수 있겠어요? / 토니: 편지요? / 돈 셜리: 그래요. 당신의 부인에게. 당신이 쓰는 방식으로. / 토니: 아니, 박사님, 전 편지 못 써요. 당신은 작가잖아요. / 돈 셜리: 그냥 당신이 그녀에게 하고 싶은 말을 하세요. 진심을 담아서.","Don Shirley: Tony, could you write this letter for me? / Tony: A letter? / Don Shirley: Yes. To your wife. In your own words. / Tony: Nah, Doc, I can't write letters. You're the writer. / Don Shirley: Just say what you want to say to her. Say it from the heart.",그린 북,영화,NULL,NULL,NULL
-"돈 셜리: 내가 평생 그런 취급을 당해왔는데, 당신은 하루도 못 참아요?!","Don Shirley: I've put up with it my whole life, and you can't put up with it for one day?!",그린 북,영화,NULL,NULL,NULL
-"토니: 켄터키 프라이드치킨! 켄터키에서! 이런 일이 또 있겠어요! / 돈 셜리: 당신 아버지는 뭐라고 하셨나요? / 토니: 아버지는 늘 말씀하셨죠. '무슨 일이든 할 때는 100% 최선을 다해라. 일할 땐 일하고, 웃을 땐 웃고, 먹을 땐 마치 마지막 식사인 것처럼 먹어라.'","Tony: Kentucky Fried Chicken! In Kentucky! When's that ever gonna happen! / Don Shirley: What would your father say about this situation? / Tony: He always said, 'Whatever you do, do it 100%. When you work, work. When you laugh, laugh. When you eat, eat like it's your last meal.'",그린 북,영화,NULL,NULL,NULL
-"소금은 속임수예요. 어떤 요리사든 소금으로 맛을 낼 수 있죠. 소금 없이 다른 풍미만으로 맛을 내는 것, 그게 비법이죠.","Salt is cheating. Any cook can make things salty. To make it taste good without the salt, with just the other flavors, that's the trick.",그린 북,영화,NULL,NULL,NULL
-"나는 백인들처럼 살기 위해 노력하고, 백인들은 내가 그들처럼 되지 못할까 봐 겁내지. 나는 성 같은 저택에 혼자 살고 있지요. 부자들은 내게 연주하게 하지만, 무대를 내려오면 난 그들에게 또 다른 검둥이예요. 같은 흑인들은 내가 그들과 달라서 나를 받아들이지 않으니, 나는 흑인도 아니고 백인도 아니고, 남자답지도 못하다면... 말해줘요, 토니. 나는 대체 뭐죠?!","I try to live like a white man, and they are afraid that I won't be able to. I live in a castle, Tony! Alone. Rich white people pay me to play piano, but as soon as I step off that stage, I go right back to being just another negro to them. And I suffer that side alone, because I'm not accepted by my own people 'cause I'm not like them, either. So if I'm not black enough and if I'm not white enough and if I'm not man enough then tell me, Tony, what am I?!",그린 북,영화,NULL,NULL,NULL
-"기다려, 기다릴 줄 알아야 최고로 맛있는 음식을 맛볼 수 있어.","Wait, you have to know how to wait to taste the best food.",리틀 포레스트,영화,봄,NULL,NULL
-"모든 것은 타이밍이라고 엄마가 늘 말했었지.","Mom always said everything is about timing.",리틀 포레스트,영화,NULL,NULL,NULL
-"온기가 있는 생명은 의지가 된다.","Warm, living things are comforting.",리틀 포레스트,영화,NULL,NULL,NULL
-"재하: 회사 생활이라는 게 스스로 결정할 수 있는 게 그렇게 많지 않더라고. 생각할 여유도 없이, 왜 사는지도 모르겠고, 월급날이나 꾸역꾸역 기다리면서 사는 게 가슴이 터질 것 같더라고. / 혜원: 가장 중요한 일을 외면하고 그때그때 열심히 사는 척, 고민을 얼버무리고 있는 거 말이다.","Jae-ha: Company life, I realized there wasn't much I could decide on my own. Without the time to think, I didn't know why I was living, just waiting for payday. I felt like my chest would burst seeing myself live like that. / Hyewon: You were ignoring the most important thing, pretending to work hard moment by moment, just glossing over your worries.",리틀 포레스트,영화,NULL,NULL,NULL
-"말 안 하고 참는다고 알아주는 거 하나도 없더라. 내뱉고 싶을 때 내뱉어야지 속에 독이 안 쌓인다고.","Nobody recognizes you for holding it in and not saying anything. You have to speak your mind when you want to, so the poison doesn't build up inside.",리틀 포레스트,영화,NULL,NULL,NULL
-"얄팍한 인간의 헛소리나 들어야만 하는 건 지긋지긋해. 자기 몸으로 직접 한 일과 그 과정에서 느끼고 생각한 것, 자신이 책임지고 말할 수 있는 건 그런 거잖아. 그런 걸 많이 가진 사람을 존경하고 믿어.","I'm sick and tired of listening to the empty words of shallow people. The things you actually do with your own body, the things you feel and think in the process, those are the only things you can take responsibility for and speak about, right? I respect and trust those who have a lot of those things.",리틀 포레스트,영화,NULL,NULL,NULL
-"남이 자기를 죽이게 두고 죽인 방법을 불평하는 그런 인생을 보내고 싶진 않았어.","I didn't want to live a life where I let someone else kill me and then complained about how they did it.",리틀 포레스트,영화,NULL,NULL,NULL
-"밤조림이 맛있다는 건 가을이 깊어졌다는 뜻이다. 곶감이 맛있다는 건 겨울이 깊어졌다는 뜻이다.","The fact that the sweetened chestnuts are delicious means autumn is deep. The fact that the dried persimmons are delicious means winter is deep.",리틀 포레스트,영화,NULL,NULL,NULL
-"혜원: 엄마는 도망친 거야. / 엄마: 나는 도망치는 게 아니라, 돌아가는 거야. 다시. 나만의 작은 숲으로.","Hyewon: You ran away, Mom. / Mom: I'm not running away. I'm going back. Again. To my own little forest.",리틀 포레스트,영화,NULL,NULL,NULL
-"기다려, 기다릴 줄 알아야 최고로 맛있는 음식을 맛볼 수 있어.","NULL",리틀 포레스트,영화,봄,NULL,NULL
-"모든 것은 타이밍이라고 엄마가 늘 말했었지.","NULL",리틀 포레스트,영화,NULL,NULL,NULL
-"온기가 있는 생명은 의지가 된다.","NULL",리틀 포레스트,영화,NULL,NULL,NULL
-"재하: 회사 생활이라는 게 스스로 결정할 수 있는 게 그렇게 많지 않더라고. 생각할 여유도 없이, 왜 사는지도 모르겠고, 월급날이나 꾸역꾸역 기다리면서 사는 게 가슴이 터질 것 같더라고. / 혜원: 가장 중요한 일을 외면하고 그때그때 열심히 사는 척, 고민을 얼버무리고 있는 거 말이다.","NULL",리틀 포레스트,영화,NULL,NULL,NULL
-"말 안 하고 참는다고 알아주는 거 하나도 없더라. 내뱉고 싶을 때 내뱉어야지 속에 독이 안 쌓인다고.","NULL",리틀 포레스트,영화,NULL,NULL,NULL
-"얄팍한 인간의 헛소리나 들어야만 하는 건 지긋지긋해. 자기 몸으로 직접 한 일과 그 과정에서 느끼고 생각한 것, 자신이 책임지고 말할 수 있는 건 그런 거잖아. 그런 걸 많이 가진 사람을 존경하고 믿어.","NULL",리틀 포레스트,영화,NULL,NULL,NULL
-"남이 자기를 죽이게 두고 죽인 방법을 불평하는 그런 인생을 보내고 싶진 않았어.","NULL",리틀 포레스트,영화,NULL,NULL,NULL
-"겨울이 와야 정말로 맛있는 곶감을 먹을 수 있는 거야.","NULL",리틀 포레스트,영화,겨울,NULL,NULL
-"혜원: 엄마는 도망친 거야. / 엄마: 나는 도망치는 게 아니라, 돌아가는 거야. 다시. 나만의 작은 숲으로.","NULL",리틀 포레스트,영화,NULL,NULL,NULL
-"나도 나만의 작은 숲을 찾아야겠다.","NULL",리틀 포레스트,영화,NULL,NULL,NULL
-"이놈에 잡초는 뽑아도 뽑아도 마음의 걱정처럼 금방 자라난다.","NULL",리틀 포레스트,영화,NULL,NULL,NULL
-
+"웃어라. 온 세상이 너와 함께 웃을 것이다. 울어라. 너 혼자 울 것이다。","NULL",올드보이,영화,NULL,NULL,NULL
+"누가 됐든 기다려라. 조금만 기다려라. 머리끝서부터 발톱까지 이 지구상 동서남북 어디서도 네 시체를 찾을 수 없을 거다. 내가 잘근잘근 씹어 먹을 테니까。","NULL",올드보이,영화,NULL,NULL,NULL
+"오대수는요 말이 너무 많아요。","NULL",올드보이,영화,NULL,NULL,NULL
+"당신의 진짜 실수는 대답을 못 찾은 게 아니야. 자꾸, 틀린 질문만 하니까 맞는 대답이 나올 리가 없잖아. '왜 이우진은 오대수를 가뒀을까?'가 아니라, '왜 풀어줬을까?'란 말이야! 자, 다시. 이우진은 왜 오대수를 딱 15년 만에 풀어줬을까?",NULL,올드보이,영화,NULL,NULL,NULL
+"아무리 짐승만도 못한 놈이어도요, 예? 살 권리는 있는 거 아닌가요? 예?",NULL,올드보이,영화,NULL,NULL,NULL
+"명심해라. 모래알이든 바위덩어리든 물에 가라앉기는 마찬가지다。","NULL",올드보이,영화,NULL,NULL,NULL
+"있잖아, 사람은 말이야. 상상력이 있어서 비겁해지는 거래. 그러니까, 상상을 하지 말아 봐. 존나 용감해질 수 있어。","NULL",올드보이,영화,NULL,NULL,NULL
+"복수심은 건강에 좋다! 하지만, 복수가 다 이루어지고 나면 어떨까? 아마... 잊고 있던 고통이 다시 찾아올 걸?","NULL",올드보이,영화,NULL,NULL,NULL
+"못 끝낼 것 같다. 이젠 복수심도 내 하나의 성격이 되버렸어。","NULL",올드보이,영화,NULL,NULL,NULL
+"누구냐, 넌。","NULL",올드보이,영화,NULL,NULL,NULL
+"누나하고 난 모든 걸 알고도 사랑했어. 너희도 그럴 수 있을까?","NULL",올드보이,영화,NULL,NULL,NULL
+"뭐, 내가 중요하진 않아요. 왜가 중요하지. 잘 생각해 봐요. 인생을 통째로 복습하는 거야. 학교 끝났으니까 이제 숙제를 할 차례잖아。","NULL",올드보이,영화,NULL,NULL,NULL
+"고거 완전 걸레였다 아이가 걸레. 그거 이따 아이가. 겉으론 새침하이 요조숙년데, 이기 속으로는 완전 걸렌기야 이기. 어? 개나소나 씨바 안 따먹은 놈이 없따꼬 학교에 소문이 쫙 퍼짔다 아이가. 캬, 내가 그때 뭐했나 몰라. 씨, 히히. 여하튼, 가시나 저 그 집이 또 엄청스리 부잔기라 이기, 어? 공부도 억수로 잘했어. 근데 결정적으로 고기 그리 헤펐다는 거 아이가, 하하, 참 내 야, 진짜 옛날 얘기다, 옛날 얘기야。","NULL",올드보이,영화,NULL,NULL,NULL
+"아가씨들 팔았죠? 아니에요. 아니긴 뭐가 아니야. 팔았죠? 아니라니까요. 안 팔았어요. 죽였어요. 뭐요? 아니에요. 지금 뭐라 그랬잖아요? 뭘요? 죽였다고 그랬잖아요. 하하. 예.",NULL,추격자,영화,NULL,NULL,NULL
+"난 이놈이 아가씨를 팔아먹은 놈인 거라 확신하고 이놈을 잡은 것뿐입니다. 저놈 핸드폰을 조사해 보면 억울하게 잡힌 아가씨들도 빨리 풀어줄 수 있습니다. 지금도 핸드폰 찾는 게 우선입니다.",NULL,추격자,영화,NULL,NULL,NULL
+"왜요, 쑥스러워서 그래요? 그러지 말고 얘기해 봐요. 화학과에서 1년 정도면... 제일 긴 게 연구해 본 게 얼마예요?",NULL,추격자,영화,NULL,NULL,NULL
+"그 미친놈이 쫓아오면 어떻게 해? 그 아가씨가 여기 있다니까. 아줌마, 혹시 망치나 몽둥이 같은 거 있어요?",NULL,추격자,영화,NULL,NULL,NULL
+"너 같은 새끼가 대개 그러니까. 너 성불구지? 내가 성불구인지 아닌지 어떻게 알아. 네가 봤어? 여자들을 보면 섹스는 하고 싶은데, 그러진 못하고. 그래서 여자애들 정으로 죽인 거지? 정을 네 성기로 생각하고, 그 정을 여자애들 머리에 때려 박을 때의 쾌감. 그 쾌감 때문에 여자애들 죽인 거잖아!?",NULL,추격자,영화,NULL,NULL,NULL
+"한국의 밤은 십자가의 밤과도 같다. 누구나 십자가 아래에서 산다. 아이러니하게도 십자가가 많지만 살인도 쉼 없이 일어나지 않느냐.",NULL,추격자,영화,NULL,NULL,NULL
+"야 4885, 너지? 어우, 씹새끼. 받아 이 새끼야. 너 오늘 존나게 재수없다? 내려라.",NULL,추격자,영화,NULL,NULL,NULL
+"내가 인마 느그 서장이랑 인마 어저께도 으! 같이 밥묵고 으! 싸우나도 같이가고 으! 마 개이섀꺄 마 다했으! 이 새끼들이 말이야 이 개새끼들이. 그래. 아 그러면 일단. 영사 일단 사과를 드리라 새끼. 죄송합니다.",NULL,범죄와의 전쟁,영화,NULL,NULL,NULL
+"살아 있네.",NULL,범죄와의 전쟁,영화,NULL,NULL,NULL
+"대부님.",NULL,범죄와의 전쟁,영화,NULL,NULL,NULL
+"아 내는 진짜 솔직히 일본으로 히로뽕 수출 존나 해가, 예? 그 망할 놈의 일본 원숭이쉐끼들 다 뽕 처맞고, 예? 오줌 질질 싸면서 다 뒤졌으면 좋겠습니다. 아 애국이 별겁니까? 예? 아 우리가 일본을 뭐라도 이겨야 될 거 아입니까, 예?",NULL,범죄와의 전쟁,영화,NULL,NULL,NULL
+"사람속이 넓고... 큽니다. 좆도 크고. 우리 봉구씨 코푸는거 좋아한다 아입니꺼. 이거, (탁탁탁) 빠구리!",NULL,범죄와의 전쟁,영화,NULL,NULL,NULL
+"명분이 없다 아입니꺼. 명분이.",NULL,범죄와의 전쟁,영화,NULL,NULL,NULL
+"오빠야, 쫄았제? 얼라 보지에 붙은 밥알 띠묵는 소리하고 쳐자빠졌네, 이 개새끼가. 뭐? 야, 니 어데 식순이 앞에서 행주 짜노? 씨발놈이... 뭐 삥땅? 삥땅 누가 치데? 니가 치데 이 씨발놈아.",NULL,범죄와의 전쟁,영화,NULL,NULL,NULL
+"일대일로 하면 지가 다 이깁니더. 아 진짭니더.",NULL,범죄와의 전쟁,영화,NULL,NULL,NULL
+"자 드가자!",NULL,범죄와의 전쟁,영화,NULL,NULL,NULL
+"이기 십억짜리 전화번호부다, 십억짜리... 그 새끼들 내 절대 몬 잡아넣어.",NULL,범죄와의 전쟁,영화,NULL,NULL,NULL
+"마, 불 함 붙이봐라.",NULL,범죄와의 전쟁,영화,NULL,NULL,NULL
+"X발롬이 처돌았나 어데다 함부로 손을 놀리노!",NULL,범죄와의 전쟁,영화,NULL,NULL,NULL
+"야 최익현, 너 뭔가 단단히 착각하고 있는 거 같은데. 난 니가 깡팬지 아닌지 관심이 없어 이 새끼야. 넌 내가 그냥 깡패라고 하면, 그냥 깡패야. 이 새끼야. 표정관리 잘해.",NULL,범죄와의 전쟁,영화,NULL,NULL,NULL
+"네 아버지가 그렇게 태어난 게 네 아버지 죄도 아니고, 네 아버지가 금칠은 못 해주셨어도 너 굶기기라도 했냐? 그리고 뭔 가난을 챙피할 여유가 있냐? 나중에 나이 먹어 봐라, 그것 때문에 챙피해했다는 게 더 쪽팔릴 거다.",NULL,완득이,영화,NULL,NULL,NULL
+"하느님, 똥주 좀 죽여주세요. 하나님 돈 좋아하시죠? 똥주가 얼마 하는지 모르지만 똥주보다 1만 원 더 드릴게요. 똥주 좀 죽여주세요. 이번에 똥주 안 죽여 주면 저 부처님한테 갑니다.",NULL,완득이,영화,NULL,NULL,NULL
+"선생님 제가 재밌으시죠? 어떻게 저렇게 완벽하게 불쌍한 새끼가 있을까? 그러고 재밌어서 저 놀리시는 거죠?",NULL,완득이,영화,NULL,NULL,NULL
+"가난은 부끄러운 것이 아니다. 아무 것도 하지 않는 것이 정말 부끄러운 것이다.",NULL,완득이,영화,NULL,NULL,NULL
+"가난한 것보다 굶어 죽는 것이 더 쪽팔린 거야.",NULL,완득이,영화,NULL,NULL,NULL
+"넌 똥 싸러 갈 때 컴퓨터 들고 가냐? 가난한 게 쪽 팔려? 나중에 크면 지금 그런 생각을 했다는 사실이 쪽 팔릴 거다. 그게 야간 자율학습이냐? 야간 강제학습이지.",NULL,완득이,영화,NULL,NULL,NULL
+"니들 좋은 대학 가는 거 좋은데, 나가보면 세상이 모두 다 대학이야.",NULL,완득이,영화,NULL,NULL,NULL
+"이런 식으로 소원을 들어주시다니. 난 말이야, 엄마가 필리핀 사람이건 베트남 사람이건 살아있기만 하면 좋겠다, 임마.",NULL,완득이,영화,NULL,NULL,NULL
+"요즘은 내가 보는 모든 게 너랑 닮았다. 구름도 닮았고, 꽃도 닮았고, 달도 닮았다. 오늘 구름은 쭉 찢어진 게 너의 웃는 모습을 닮아서 나도 입이 쭉 찢어지게 웃었다.",NULL,완득이,영화,NULL,NULL,NULL
+"그럼 태어나자마자 김칫국에 밥 말아먹냐 이 새꺄? 아 왜 제 기도가 안 이뤄졌는지 알았습니다.. 네가 얘 찼냐? 죄송합니다. 뒤지게 더 찼어야지 임마! 햇반 던져 이 새꺄!",NULL,완득이,영화,NULL,NULL,NULL
+"아버지는……. 계란은 없어요. 나는 라면을 미리 뜯어놓았다. 딱히 할 일이 없었다. 나는…… 그냥, 한 번만……. 끓여서 들어갈 테니까, 방에 계세요. 그분은 잠시 주춤하더니 신발을 벗고 방으로 들어갔다. 내일 학교 가야지요. 이제 자려고요. 이거……. 그런 거 필요 없는데요. 나 줄 돈 있으면 신발이나 새로 사 신으세요. 요즘은 애들도 저런 거 안 신어요. 말로는 잘 못 하겠어서…… 너무 미안해서……. 필요 없으니까, 가져가세요.",NULL,완득이,영화,NULL,NULL,NULL
+"왜 백미밥이야? 그저께 흑미밥 나왔잖아! 어제 다 먹었어요! 아껴 좀 먹어, 새끼야!",NULL,완득이,영화,NULL,NULL,NULL
+"얌마, 도완득!",NULL,완득이,영화,NULL,NULL,NULL
 
